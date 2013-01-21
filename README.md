@@ -17,17 +17,17 @@ USAGE
 SAMPLE OUTPUT
 -------------
     >php sample.php 
-    INTEGER 	==> ENCODED 		==> DECODED
-    0 		==> S54Oo5Lg7qK1An6 	==> 0
-    1 		==> TV5WW0Lg7xo9xo9 	==> 1
-    2 		==> YH5Ci8xo9xo9Oo5 	==> 2
-    3 		==> 844xo9Lg7qK17M2 	==> 3
-    4 		==> 2r0xo9Oo5qK1WW0 	==> 4
-    5 		==> OQ7WW0qK1qK1Lg7 	==> 5
-    6 		==> a61xo9An6Lg7Ci8 	==> 6
-    7 		==> Xz9Lg7Lg7An6Oo5 	==> 7
-    8 		==> 8F1xo9WW07M2Ci8 	==> 8
-    9 		==> oB9An6S54S54Oo5 	==> 9
+    INTEGER 	  ==> ENCODED 		       ==> DECODED
+    0 		       ==> S54Oo5Lg7qK1An6 	==> 0
+    1 		       ==> TV5WW0Lg7xo9xo9 	==> 1
+    2 		       ==> YH5Ci8xo9xo9Oo5 	==> 2
+    3 	       	==> 844xo9Lg7qK17M2 	==> 3
+    4 		       ==> 2r0xo9Oo5qK1WW0 	==> 4
+    5 		       ==> OQ7WW0qK1qK1Lg7 	==> 5
+    6 		       ==> a61xo9An6Lg7Ci8 	==> 6
+    7 		       ==> Xz9Lg7Lg7An6Oo5 	==> 7
+    8 		       ==> 8F1xo9WW07M2Ci8 	==> 8
+    9 		       ==> oB9An6S54S54Oo5 	==> 9
     100000000 	==> WW03W3An6Oo5GU7 	==> 100000000
     100000001 	==> Zs13W37M2qK1q62 	==> 100000001
     100000002 	==> lU33W3WW07M2Bw4 	==> 100000002
