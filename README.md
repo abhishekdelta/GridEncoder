@@ -9,10 +9,10 @@ USECASE
 
 USAGE
 -----
-1) Ensure you have python and php installed
-2) Execute python script grid_generator.py. It will generate 3 files in the same directory in which it is executed. These files act as source data.
-3) PHP-based encryption and decryption functions are defined in gridencoder.lib.php. Simply include that file in your code and use the methods.
-4) Checkout sample.php for sample code.
+* Ensure you have python and php installed
+* Execute python script grid_generator.py. It will generate 3 files in the same directory in which it is executed. These files act as source data.
+* PHP-based encryption and decryption functions are defined in gridencoder.lib.php. Simply include that file in your code and use the methods.
+* Checkout sample.php for sample code.
 
 SAMPLE OUTPUT
 -------------
